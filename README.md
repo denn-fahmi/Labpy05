@@ -96,8 +96,10 @@ if __name__ == "__main__":
     main()
 
 ### dan berikut adalah tampilan program yang di buat mengikut flowchart di atas <p>
-![gambar3](K4.PNG)
+![gambar2](K4.PNG)
 ## dan ini adalah tampilan ketika di eksekusi dengan menambahkan 2 mahasiswa
 ![gambar3](K1.PNG)
-## mengganti nilai dan menambahkan nilai
-![gambar3](K2.PNG)
+## mengubah nilai dan menambahkan nilai
+![gambar4](K2.PNG)
+## menghapus mahasiswa
+![gambar5](K3.PNG)

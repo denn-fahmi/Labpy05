@@ -7,6 +7,6 @@ Mata Kuliah: Pemrograman <p>
 berikut adalah Flowchart nya: <p>
 ![gambar1](k5.PNG) 
 ## berikut adalah program python nya <p>
-![gambar2](kk.PDF)
+![gambar2](kk.pdf)
 ### dan berikut adalah tampilan program yang di buat mengikut flowchart di atas <p>
 ![gambar3](K4.PNG)

@@ -97,3 +97,5 @@ if __name__ == "__main__":
 
 ### dan berikut adalah tampilan program yang di buat mengikut flowchart di atas <p>
 ![gambar3](K4.PNG)
+## dan ini adalah tampilan ketika di eksekusi dengan menambahkan 2 mahasiswa
+![gambar3](K1.PNG)
